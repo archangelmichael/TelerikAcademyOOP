@@ -1,0 +1,6 @@
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\17.MaxString\bin\Debug\17.MaxString.exe.config
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\17.MaxString\bin\Debug\17.MaxString.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\17.MaxString\bin\Debug\17.MaxString.pdb
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\17.MaxString\obj\Debug\17.MaxString.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\17.MaxString\obj\Debug\17.MaxString.pdb
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\17.MaxString\obj\Debug\17.MaxString.csprojResolveAssemblyReference.cache

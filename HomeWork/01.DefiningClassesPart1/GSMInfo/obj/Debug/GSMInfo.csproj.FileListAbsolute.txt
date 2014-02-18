@@ -1,0 +1,6 @@
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart1\GSMInfo\bin\Debug\GSMInfo.exe.config
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart1\GSMInfo\obj\Debug\GSMInfo.csprojResolveAssemblyReference.cache
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart1\GSMInfo\bin\Debug\GSMInfo.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart1\GSMInfo\bin\Debug\GSMInfo.pdb
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart1\GSMInfo\obj\Debug\GSMInfo.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart1\GSMInfo\obj\Debug\GSMInfo.pdb

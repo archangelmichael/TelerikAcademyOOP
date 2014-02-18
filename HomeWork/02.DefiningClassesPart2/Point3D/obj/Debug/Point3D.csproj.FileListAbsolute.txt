@@ -1,0 +1,6 @@
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart2\Point3D\bin\Debug\Point3D.exe.config
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart2\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart2\Point3D\bin\Debug\Point3D.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart2\Point3D\bin\Debug\Point3D.pdb
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart2\Point3D\obj\Debug\Point3D.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart2\Point3D\obj\Debug\Point3D.pdb

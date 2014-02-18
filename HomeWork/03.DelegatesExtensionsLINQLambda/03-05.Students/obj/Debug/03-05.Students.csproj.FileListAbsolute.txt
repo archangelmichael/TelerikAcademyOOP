@@ -1,0 +1,6 @@
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\03-05.Students\bin\Debug\03-05.Students.exe.config
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\03-05.Students\bin\Debug\03-05.Students.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\03-05.Students\bin\Debug\03-05.Students.pdb
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\03-05.Students\obj\Debug\03-05.Students.csprojResolveAssemblyReference.cache
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\03-05.Students\obj\Debug\03-05.Students.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\03-05.Students\obj\Debug\03-05.Students.pdb

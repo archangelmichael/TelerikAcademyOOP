@@ -1,0 +1,5 @@
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\04.ObjectOrientedProgramming\01.SchoolMembers\bin\Debug\01.SchoolMembers.dll
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\04.ObjectOrientedProgramming\01.SchoolMembers\bin\Debug\01.SchoolMembers.pdb
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\04.ObjectOrientedProgramming\01.SchoolMembers\obj\Debug\01.SchoolMembers.csprojResolveAssemblyReference.cache
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\04.ObjectOrientedProgramming\01.SchoolMembers\obj\Debug\01.SchoolMembers.dll
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\04.ObjectOrientedProgramming\01.SchoolMembers\obj\Debug\01.SchoolMembers.pdb

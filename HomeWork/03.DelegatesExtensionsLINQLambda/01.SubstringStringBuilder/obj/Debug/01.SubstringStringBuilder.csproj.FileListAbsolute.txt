@@ -1,0 +1,6 @@
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\01.SubstringStringBuilder\bin\Debug\01.SubstringStringBuilder.exe.config
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\01.SubstringStringBuilder\obj\Debug\01.SubstringStringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\01.SubstringStringBuilder\bin\Debug\01.SubstringStringBuilder.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\01.SubstringStringBuilder\bin\Debug\01.SubstringStringBuilder.pdb
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\01.SubstringStringBuilder\obj\Debug\01.SubstringStringBuilder.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\01.SubstringStringBuilder\obj\Debug\01.SubstringStringBuilder.pdb

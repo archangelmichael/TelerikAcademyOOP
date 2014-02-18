@@ -1,0 +1,1 @@
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\03.ExtensionsLINQLambda\02.IEnumerableFunctions\bin\Debug\02.IEnumerableFunctions.exe.config

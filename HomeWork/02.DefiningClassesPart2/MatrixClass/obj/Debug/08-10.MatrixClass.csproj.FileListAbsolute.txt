@@ -1,0 +1,5 @@
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart2\MatrixClass\bin\Debug\MatrixClass.exe.config
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart2\MatrixClass\bin\Debug\MatrixClass.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart2\MatrixClass\bin\Debug\MatrixClass.pdb
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart2\MatrixClass\obj\Debug\MatrixClass.exe
+C:\Users\raddy\Documents\Visual Studio 2012\Projects\OOP Homework\DefiningClassesPart2\MatrixClass\obj\Debug\MatrixClass.pdb
